@@ -28,6 +28,7 @@
         <q-btn label="Submit" type="submit" color="primary"/>
         <q-btn label="Reset" type="reset" color="primary" flat class="q-ml-sm" />
         <q-btn to="/register" label="regis" type="submit" color="primary"/>
+        <q-btn to="/halamanutama" label="home" type="submit" color="primary"/>
       </div>
           </q-form>
       </q-card>
